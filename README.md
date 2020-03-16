@@ -1,2 +1,2 @@
-# stanford_sc224N
+# stanford_cs224N
 Homework Assignments from Stanford NLP Course
